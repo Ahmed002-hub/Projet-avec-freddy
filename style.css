@@ -1,0 +1,9 @@
+body {
+    background-image: url(https://img.freepik.com/vecteurs-premium/fond-ballon-football-style-cartoon_712580-133.jpg);
+    background-size: cover;
+}
+p{
+    font-size: xx-large;
+    font-weight: bolder;
+    color: brown;
+}
